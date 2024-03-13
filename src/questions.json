@@ -6,6 +6,10 @@
       {
         "pregunta": "¿Cuál es la capital de España?",
         "respuesta": "Madrid"
+      },
+      {
+        "pregunta": "random question",
+        "respuesta": "random answer"
       }
     ]
 
